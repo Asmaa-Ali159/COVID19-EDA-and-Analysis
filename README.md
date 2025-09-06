@@ -19,7 +19,7 @@ Using **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)**, the dataset
 
 ---
 
-## 🛠 Tools & Libraries  
+##  Tools & Libraries  
 - **Python**  
 - **Pandas** – data cleaning & analysis  
 - **NumPy** – numerical operations  
